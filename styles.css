@@ -207,7 +207,7 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(0, 0, 0, 0.8);
   backdrop-filter: blur(20px);
   border-bottom: 2px solid var(--neon-cyan);
   z-index: 1000;
